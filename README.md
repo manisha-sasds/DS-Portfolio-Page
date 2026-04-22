@@ -1,2 +1,2 @@
-# DS-Portfolio-Page
+# Data-Science-Portfolio-Projects
 My Data Science Portfolio Page 
